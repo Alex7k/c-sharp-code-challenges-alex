@@ -1,0 +1,17 @@
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\bin\Debug\net6.0-windows\01_04.exe
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\bin\Debug\net6.0-windows\01_04.deps.json
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\bin\Debug\net6.0-windows\01_04.runtimeconfig.json
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\bin\Debug\net6.0-windows\01_04.dll
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\bin\Debug\net6.0-windows\01_04.pdb
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\_01_04.Form1.resources
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.csproj.GenerateResource.cache
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.AssemblyInfo.cs
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.dll
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\refint\01_04.dll
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.pdb
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.genruntimeconfig.cache
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\ref\01_04.dll
+C:\Repos\c-sharp-code-challenges-alex\01_04\01_04\obj\Debug\net6.0-windows\01_04.sourcelink.json
